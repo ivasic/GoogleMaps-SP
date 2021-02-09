@@ -41,28 +41,28 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoogleMaps",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/4.1.0/GoogleMaps.xcframework.zip",
-            checksum: "3da02417880444f0f65c5ff475d4b3f399ce3a6790cdfd6c20428ccadcbf7290"
+            url: "https://github.com/ivasic/GoogleMaps-SP/releases/download/4.1.0/GoogleMaps.xcframework.zip",
+            checksum: "7ede7b57da17ad407ca62c67a0273d3be3c7cb67563c877d2fd1978e90056b54"
         ),
         .binaryTarget(
             name: "GoogleMapsBase",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsBase.xcframework.zip",
-            checksum: "e4952a44e430414085d56962fcd1ae6d88b8503fa8ef233899207894c8c71d94"
+            url: "https://github.com/ivasic/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsBase.xcframework.zip",
+            checksum: "e6c6967accc7161e5e462196b0a9a5f4a52254cf5fbcb5cd85821f9e31ff9fb9"
         ),
         .binaryTarget(
             name: "GoogleMapsCore",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsCore.xcframework.zip",
-            checksum: "c255fb0e17a677e1d70df11dc08d40617c2835ac8ab347f92ce194d7c4611e77"
+            url: "https://github.com/ivasic/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsCore.xcframework.zip",
+            checksum: "5045c4f55e8852594083d4aa27bdc186f350a3d5cd8ebb6b0cd05a9e98bdd4cd"
         ),
         .binaryTarget(
             name: "GoogleMapsM4B",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsM4B.xcframework.zip",
-            checksum: "c5da70959af76a4333864981976ce6b2280628d3b9e3d89028e88293bcfa0e4a"
+            url: "https://github.com/ivasic/GoogleMaps-SP/releases/download/4.1.0/GoogleMapsM4B.xcframework.zip",
+            checksum: "35ec9bc3c475bbe290bd6a1e3f43cd1962a98136c53aebfc01476ed814c140be"
         ),
         .binaryTarget(
             name: "GooglePlaces",
-            url: "https://github.com/YAtechnologies/GoogleMaps-SP/releases/download/4.1.0/GooglePlaces.xcframework.zip",
-            checksum: "ee539dae928ec590bc3721105be68248099b2d9ee4397d91bc2528d728f55705"
+            url: "https://github.com/ivasic/GoogleMaps-SP/releases/download/4.1.0/GooglePlaces.xcframework.zip",
+            checksum: "984649d78655876edb844e3a8858b839104f85bfc6fd607432da85e27a58ec52"
         )
     ]
 )
