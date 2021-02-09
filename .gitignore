@@ -1,0 +1,7 @@
+.DS_Store
+
+Build/
+Carthage/
+Cartfile.resolved
+
+xcuserdata
